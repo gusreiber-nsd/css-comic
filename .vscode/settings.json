@@ -11,6 +11,7 @@
         "applab":true,
         "code.js":true,
         "style.css":true,
-        "applab-index.html":true
+        "applab-index.html":true,
+        "README_appLab.md":true
     },
 }
