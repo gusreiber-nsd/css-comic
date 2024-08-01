@@ -1,7 +1,7 @@
 {
     "files.exclude": {
         ".github": true,
-        "src": true,
+        "src": false,
         "tests": true,
         ".gitignore": true,
         "package.json": true,

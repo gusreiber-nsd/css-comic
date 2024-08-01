@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.live-server",
+        "rvest.vs-code-prettier-eslint",
+        "xabikos.javascriptsnippets",
+        "dbaeumer.vscode-eslint"
+    ]
+}

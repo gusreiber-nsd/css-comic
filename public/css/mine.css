@@ -89,7 +89,7 @@ body {
 
 .frame:before {
   content: '';
-  background: url(img/pow.jpg) no-repeat;
+  background: url(/img/pow.jpg) no-repeat;
   background-size: cover;
   position: absolute;
   top: 0;
@@ -116,7 +116,7 @@ body {
 }
 
 .rock {
-  background: url(img/theRock.png) no-repeat;
+  background: url(/img/theRock.png) no-repeat;
   background-size: cover;
   height: 40em;
   width: 50em;
@@ -139,7 +139,7 @@ body {
 }
 
 .crusty:after {
-  background: url(img/crustyBody2.png) no-repeat;
+  background: url(/img/crustyBody2.png) no-repeat;
   background-size: 100% 100%;
   position: absolute;
   top: 0;
@@ -162,7 +162,7 @@ body {
 }
 
 .crusty .beez {
-  background: url(img/beezHead.png) no-repeat;
+  background: url(/img/beezHead.png) no-repeat;
   background-size: contain;
   height: 100%;
   width: 50%;
@@ -198,7 +198,7 @@ body {
 }
 
 .zoom .speak {
-  background: url(img/speak.png) no-repeat;
+  background: url(/img/speak.png) no-repeat;
   background-size: contain;
   height: 4em;
   width: 4em;
@@ -240,7 +240,7 @@ body {
 
 .zoom.evil .crusty:after {
   top: -40%;
-  background-image: url(img/crustyBody.png);
+  background-image: url(/img/crustyBody.png);
 }
 
 .zoom.evil .crusty .beez {
@@ -292,7 +292,7 @@ body {
   left: -1em;
   right: 1rem;
   bottom: -1em;
-  background: url(img/speak2.png) no-repeat;
+  background: url(/img/speak2.png) no-repeat;
   background-size: 100% 100%;
   transform: scaleX(-1) rotate(10deg);
   ;
