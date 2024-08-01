@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        ".github": true,
+        "src": true,
+        "tests": true,
+        ".gitignore": true,
+        "package.json": true,
+        "package-lock.json": true,
+        "node_modules":true,
+        ".vscode": true,
+        "applab":true,
+        "code.js":true,
+        "style.css":true,
+        "applab-index.html":true,
+        "README_appLab.md":true
+    },
+}
