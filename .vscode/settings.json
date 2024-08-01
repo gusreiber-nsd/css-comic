@@ -1,7 +1,7 @@
 {
     "files.exclude": {
         ".github": true,
-        "src": false,
+        "src": true,
         "tests": true,
         ".gitignore": true,
         "package.json": true,
@@ -12,6 +12,7 @@
         "code.js":true,
         "style.css":true,
         "applab-index.html":true,
-        "README_appLab.md":true
+        "README_appLab.md":true,
+        ".devcontainer":true,
     },
 }
